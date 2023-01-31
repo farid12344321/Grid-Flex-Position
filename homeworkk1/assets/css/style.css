@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(159, 157, 157);
+}
+
+
+.box1{
+    width: 400px;
+    height: 550px;
+    position: relative;
+    background-color: rgb(61, 61, 61);
+    margin-top: 100px; 
+    border-radius: 30px;
+}
+.data{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 90px;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    border: 10px solid #f511b4;
+}
+
+.box1 h1{
+    margin-left:115px ;
+    color: #f511b4;
+}
+
+
+.box1 h3{
+    margin-left:100px ;
+    color: rgb(223, 222, 222);
+}
+
+.box1 h2{
+    margin-left:80px ;
+    color: white;
+}
+
+
+
+.box1 .user{
+    left: 35px;
+    top: 15px;
+    position: absolute;
+    font-size: 150px;
+   
+}
+
+
+.box1 .github{
+    margin-left: 30px;
+    margin-top: 20px;
+   font-size: 60px;
+   background-color: #f511b4;
+   color: white;
+}
+
+.box1 .twitter{
+    margin-left: 30px;
+    margin-top: 20px;
+   font-size: 60px;
+   background-color: #f511b4;
+   color: white;
+}
+
+.box1 .youtube{
+    margin-left: 30px;
+    margin-top: 20px;
+   font-size: 60px;
+   background-color: #f511b4;
+   color: white;
+}
+
+.box1 .linkedin{
+    margin-left: 30px;
+    margin-top: 20px;
+   font-size: 60px;
+   background-color: #f511b4;
+   color: white;
+}
+
+.box2{
+    width: 400px;
+    height: 80px;
+    position: absolute;
+    background-color: #f511b4;
+    
+    margin-top: 105px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.box2 p{
+    font-size: 30px;
+    color: white;
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

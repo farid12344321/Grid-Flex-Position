@@ -1,0 +1,376 @@
+body {
+    background-color: rgb(114, 113, 113);
+}
+
+.box {
+    display: flex;
+}
+
+div {
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box .display1 {
+    position: relative;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-right: 120px;
+    width: 250px;
+    height: 480px;
+    background-color: white;
+}
+
+.pink {
+
+    margin-top: 430px;
+    position: absolute;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(246, 87, 114);
+}
+
+.display1 .img1 {
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: -305px;
+    width: 250px;
+}
+
+.display1 .day {
+
+    position: absolute;
+    margin-top: -45px;
+    color: rgb(250, 97, 122);
+}
+
+h1 {
+    position: absolute;
+    margin-top: 25px;
+}
+
+
+.display1 .lorem1{
+
+    position: absolute;
+    margin-left: 20px;
+    top: 250px;
+    text-align: center;
+}
+
+
+.display1 .views {
+    width: 40px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 180px;
+}
+
+.line {
+    margin-top: 1px;
+    margin-right: 100px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+.display1 .comment {
+    width: 60px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 25px;
+}
+.line1 {
+    margin-top: 1px;
+    margin-right: 10px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+
+.display1 .rating {
+    width: 60px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 160px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box .display2 {
+    position: relative;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 250px;
+    height: 480px;
+    background-color: white;
+}
+
+.display2 .img2 {
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: -305px;
+    width: 250px;
+}
+
+
+
+.pink2 {
+
+    margin-top: 430px;
+    position: absolute;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(209, 90, 4);
+}
+
+.display2 .day2 {
+
+    position: absolute;
+    margin-top: -45px;
+    color: rgb(209, 90, 4);
+}
+
+.display2 .lorem2{
+
+    position: absolute;
+    margin-left: 20px;
+    top: 250px;
+    text-align: center;
+}
+.display2 .day1 {
+
+    position: absolute;
+    margin-top: -45px;
+    color: rgb(209, 90, 4);
+}
+
+
+.display2 .views2 {
+    width: 40px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 180px;
+}
+
+.line {
+    margin-top: 1px;
+    margin-right: 100px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+.display2 .comment2 {
+    width: 60px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 25px;
+}
+.line4 {
+    margin-top: 1px;
+    margin-right: 100px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+
+.display2 .rating2 {
+    width: 60px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 160px;
+}
+.line5 {
+    margin-top: 1px;
+    margin-right: 10px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box .display3 {
+    position: relative;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 120px;
+    width: 250px;
+    height: 480px;
+    background-color: white;
+}
+
+.display3 .img3 {
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: -305px;
+    width: 250px;
+}
+
+.display3 .day3 {
+
+    position: absolute;
+    margin-top: -45px;
+    color: rgb(47, 255, 57);
+}
+
+.display3 .lorem3{
+
+    position: absolute;
+    margin-left: 20px;
+    top: 250px;
+    text-align: center;
+}
+
+.pink3 {
+
+    margin-top: 430px;
+    position: absolute;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(47, 255, 57);
+}
+.display3 .views3 {
+    width: 40px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 180px;
+}
+
+.line6 {
+    margin-top: 1px;
+    margin-right: 100px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+.display3 .comment3 {
+    width: 60px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 25px;
+}
+.line7 {
+    margin-top: 1px;
+    margin-right: 10px;
+    width: 1px;
+    height: 100%;
+    background-color: black;
+}
+
+
+
+.display3 .rating3 {
+    width: 60px;
+    top: 1px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 160px;
+}
+
